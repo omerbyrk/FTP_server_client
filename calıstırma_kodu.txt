@@ -1,0 +1,7 @@
+Dosyaların bulunduğu dizine girip, aşağıdaki kodları yazmalısınız. 
+
+Server için > pyhton server.py
+Client için > pyhton client.py localhost:2121 omer 123456
+
+
+!Önce server çalıştırılmalıdır. 
